@@ -1,4 +1,4 @@
-<h1 align="center">Makhtar Sare</h1>
+<h1 align="center">Full-Stack Developer (Angular / NestJS)</h1>
 <p align="center">
   Full-Stack Developer (Angular / NestJS) • 5+ years of experience
 </p>
