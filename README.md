@@ -1,6 +1,6 @@
 <h1 align="center">Makhtar Sare</h1>
 <p align="center">
-  Développeur Full-Stack Angular / NestJS • 5+ ans d'expérience
+  Full-Stack Developer (Angular / NestJS) • 5+ years of experience
 </p>
 
 <p align="center">
@@ -11,30 +11,30 @@
 
 ---
 
-## A propos
+## About
 
-Je conçois et maintiens des applications métier en production, avec une forte dominante Angular / NestJS.
+I build and maintain production business applications, with a strong focus on Angular and NestJS.
 
 - Front-end: Angular, TypeScript, RxJS, Angular Material, i18n
-- Back-end: Node.js, NestJS, APIs REST, PostgreSQL
-- Full-stack: Java / Spring Boot selon le contexte
-- Qualite & delivery: Docker, CI/CD (GitHub Actions, GitLab CI), tests, documentation
+- Back-end: Node.js, NestJS, REST APIs, PostgreSQL
+- Full-stack: Java / Spring Boot when needed
+- Delivery quality: Docker, CI/CD (GitHub Actions, GitLab CI), testing, documentation
 
-## Ce que je fais
+## What I do
 
-- Developpement de modules metier (ERP, back-office, gestion documentaire)
-- Conception d'APIs REST robustes et documentees
-- Integration front/back et optimisation des flux asynchrones
-- Structuration des pratiques d'equipe (qualite de code, standardisation, accompagnement)
+- Build business modules (ERP, back-office, document management)
+- Design reliable and well-documented REST APIs
+- Integrate front-end and back-end systems with async workflows
+- Improve team engineering practices (code quality, standards, mentoring)
 
-## Projets mis en avant
+## Featured projects
 
-- [compodoc](https://github.com/mathi0u/compodoc): documentation pour applications Angular/Nest
-- [sharp-heic-support](https://github.com/mathi0u/sharp-heic-support): support HEIC autour de Sharp
-- [jira-delivery-bridge](https://github.com/mathi0u/jira-delivery-bridge): module BMad pour publication Jira/sprints
-- [bmad-plugins-marketplace](https://github.com/mathi0u/bmad-plugins-marketplace): marketplace de plugins BMad
+- [compodoc](https://github.com/mathi0u/compodoc): documentation tool for Angular/Nest applications
+- [sharp-heic-support](https://github.com/mathi0u/sharp-heic-support): HEIC support around Sharp
+- [jira-delivery-bridge](https://github.com/mathi0u/jira-delivery-bridge): reusable BMad module for Jira stories/sprints publishing
+- [bmad-plugins-marketplace](https://github.com/mathi0u/bmad-plugins-marketplace): BMad plugins marketplace
 
-## Stack principale
+## Main stack
 
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
@@ -53,4 +53,4 @@ Je conçois et maintiens des applications métier en production, avec une forte 
 
 ---
 
-> Ouvert aux opportunites Full-Stack Angular/NestJS et Angular senior.
+> Open to Full-Stack Angular/NestJS and Senior Angular opportunities.
